@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##  A criatividade é a inteligência se divertindo.✨😎
 <!--
 **rafael-fraanca/Rafael-Fraanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
