@@ -1,6 +1,5 @@
-##  A criatividade é a inteligência se divertindo.✨😎
-<!--
-**rafael-fraanca/Rafael-Fraanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bem-vindo ao meu perfil!👋
+#### *Estou iniciando a minha caminhada na computação aprendendo novos fundamentos e ferramentas espero em breve vir aqui e atualizar meu repertorio🚀 e poder contribuir cada vez mais com essa comunidade dev !*
 
 Here are some ideas to get you started:
 
@@ -13,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
